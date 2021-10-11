@@ -1,2 +1,2 @@
 # olympic-dashboard
-Olympics Dashboard
+## How to run this dashboard
