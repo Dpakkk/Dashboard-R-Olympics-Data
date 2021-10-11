@@ -1,1 +1,2 @@
-# Dashboard-R-Olympics-Data
+# olympic-dashboard
+Olympics Dashboard
